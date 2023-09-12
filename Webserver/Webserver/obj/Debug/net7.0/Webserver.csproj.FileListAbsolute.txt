@@ -1,0 +1,14 @@
+C:\Users\zbclshi\source\repos\Webserver\Webserver\bin\Debug\net7.0\Webserver.exe
+C:\Users\zbclshi\source\repos\Webserver\Webserver\bin\Debug\net7.0\Webserver.deps.json
+C:\Users\zbclshi\source\repos\Webserver\Webserver\bin\Debug\net7.0\Webserver.runtimeconfig.json
+C:\Users\zbclshi\source\repos\Webserver\Webserver\bin\Debug\net7.0\Webserver.dll
+C:\Users\zbclshi\source\repos\Webserver\Webserver\bin\Debug\net7.0\Webserver.pdb
+C:\Users\zbclshi\source\repos\Webserver\Webserver\obj\Debug\net7.0\Webserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbclshi\source\repos\Webserver\Webserver\obj\Debug\net7.0\Webserver.AssemblyInfoInputs.cache
+C:\Users\zbclshi\source\repos\Webserver\Webserver\obj\Debug\net7.0\Webserver.AssemblyInfo.cs
+C:\Users\zbclshi\source\repos\Webserver\Webserver\obj\Debug\net7.0\Webserver.csproj.CoreCompileInputs.cache
+C:\Users\zbclshi\source\repos\Webserver\Webserver\obj\Debug\net7.0\Webserver.dll
+C:\Users\zbclshi\source\repos\Webserver\Webserver\obj\Debug\net7.0\refint\Webserver.dll
+C:\Users\zbclshi\source\repos\Webserver\Webserver\obj\Debug\net7.0\Webserver.pdb
+C:\Users\zbclshi\source\repos\Webserver\Webserver\obj\Debug\net7.0\Webserver.genruntimeconfig.cache
+C:\Users\zbclshi\source\repos\Webserver\Webserver\obj\Debug\net7.0\ref\Webserver.dll
