@@ -10,13 +10,23 @@ http requests
 
 delt i 3 blokke
 
-The method, target and the http version                   Get /order/123 HTTP/1.1           Post /orders http/1.1
-Get /order/123 HTTP/1.1                                   Host: 127.0.0.1:8080              Host: 127.0.0.1:8080 
-                                                          User-Agent: Mozilla/5.0           User-Agent: Mozilla/5.0
-Headers                                                                                     Content lenth 12
-Host: 127.0.0.1:8080 // ip og port                                                          Content-Type: application/x-www-form-urlencoded
-User-Agent: Mozilla/5.0 // browser type og version                                          order_id=156
+The method, target and the http version                              
+Get /order/123 HTTP/1.1                                                  
+                                                                     
+Headers                                                                                     
+Host: 127.0.0.1:8080 // ip og port                                                          
+User-Agent: Mozilla/5.0 // browser type og version                                          
  
 Body
 get har ikke en body, men post har order_id=156
                                                           
+Get /order/123 HTTP/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0
+
+Post /orders http/1.1
+Host: 127.0.0.1:8080
+User-Agent: Mozilla/5.0
+Content lenth 12
+Content-Type: application/x-www-form-urlencoded
+order_id=156
